@@ -2,6 +2,8 @@
 
 # You should go inside the folder for 2D segmentation in pytorch
 2D_segmentation_pytorch
+ basic_material
+ codes
 
 
 # M&Ms-2 dataset
