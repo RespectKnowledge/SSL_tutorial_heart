@@ -1,5 +1,9 @@
 #Read diffrent heart datasets and processed for 2D segmentation
 
+# You should go inside the folder for 2D segmentation in pytorch
+2D_segmentation_pytorch
+
+
 # M&Ms-2 dataset
 
 # Original dataset link 
