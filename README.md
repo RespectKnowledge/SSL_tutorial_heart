@@ -4,8 +4,11 @@
 2D_segmentation_pytorch
  
  1. basic_material
+    1.1 you can check different files for basic information, basic deep learning, basic dataset prerpocessing and dataloader
  
  2. codes
+      2.1 preprocessing code, basic UNet
+    
 
 
 # M&Ms-2 dataset
