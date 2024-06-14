@@ -9,13 +9,13 @@ I will upload example files thorugh google drive soon
 
 compute_state_datahearts.py
 
-# here is link of dataset you can download MandM2_dataset
+# M&Ms-2 dataset
 
-# original dataset link is here
+# Original dataset link 
 
 https://www.ub.edu/mnms-2/
 
-# preprocess dataset is here
+# Preprocess dataset M&Ms-2 dataset
 
 https://mega.nz/file/g3lDXR4T#JKyyC0VLyKX8IUCtPVNajNhxUwiCgg8u-LHdHANS2lg
 
